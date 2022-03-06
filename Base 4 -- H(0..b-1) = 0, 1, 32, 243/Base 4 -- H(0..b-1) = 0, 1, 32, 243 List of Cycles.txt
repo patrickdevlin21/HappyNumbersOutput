@@ -1,0 +1,7 @@
+Comprehensive List of Cycles [written in base 10] (Canonically Labelled by Smallest Element of the Cycle)
+0
+1
+32
+3
+33
+245
